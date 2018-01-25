@@ -1,11 +1,12 @@
 // Create sanity check below
 
-
+console.log ("sanity check");
 
 // console.log each variable
 // follow example below (remove "//" to uncomment)
 
-// var school = "Hawaii Tech Academy";
+ var school = "Hawaii Tech Academy";
+ console.log(school); 
 // console.log(school); <== this should print "Hawaii Tech Academy" in your browser
 
 
@@ -23,7 +24,26 @@
 // favSport
 // favDoughnut
 
-
+var firstName = "justin";
+console.log (firstName);
+var lastName = "basuil";
+console.log (lastName);
+var birthPlace = "honolulu";
+console.log (birthPlace);
+var favFood = "pizza";
+console.log (favFood);
+var favDrink = "Dr. Pepper";
+console.log (favDrink);
+var favSong = "no way no by magic";
+console.log (favSong);
+var favAnimal = "dog";
+console.log (favAnimal);
+var favColor = "blue";
+console.log (favColor);
+var favSport = "archery";
+console.log (favSport);
+var favDoughnut = "long john";
+console.log (favDoughnut);
 
 
 
