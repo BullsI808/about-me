@@ -61,6 +61,16 @@ console.log (favDoughnut);
 
 var favNumber = "1";
 console.log (favNumber);
+var yourShoeSize = "9";
+console.log(yourShoeSize);
+var numberOfPets = "0";
+console.log(numberOfPets);
+var numberOfSiblings = "1";
+console.log(numberOfSiblings);
+var numberOfStudentsInClass = "14";
+console.log(numberOfStudentsInClass);
+var numberOfDoorsInClassroom = "1";
+console.log(numberOfDoorsInClassroom);
 
 
 
@@ -77,6 +87,16 @@ console.log (favNumber);
 
 var likesMcDonalds = true;
 console.log (likesMcDonalds);
+var eatsDoughnuts = true;
+console.log(eatsDoughnuts);
+var ownsRedShoes = false;
+console.log(ownsRedShoes);
+var hasAPet = false;
+console.log(hasAPet);
+var playThePiano = false;
+console.log(playThePiano);
+var playSports = true;
+console.log(playSports);
 
 
 
@@ -90,6 +110,10 @@ console.log (likesMcDonalds);
 
 var completedMiddleSchool = null;
 console.log(completedMiddleSchool);
+var traveledToMars = null;
+console.log(traveledToMars);
+var ateDinner = null;
+console.log(ateDinner);
 
 
 
@@ -104,6 +128,10 @@ console.log(completedMiddleSchool);
 
 var superBowlChamps = undefined;
 console.log(superBowlChamps);
+var lastDayOfSchool = undefined;
+console.log(lastDayOfSchool);
+var nextFieldTrip = undefined;
+console.log(nextFieldTrip);
 
 
 
@@ -118,3 +146,9 @@ console.log(superBowlChamps);
 
 var backpack = ["computer" , "notebook" , "pencil" , "lunch" , "pen"];
 console.log(backpack);
+var plateLunch = ["teri beef","rice","mac salad","steak","shrimp"];
+console.log(plateLunch);
+var donutBox = ["long john","glazed","chocolate","chocolate glazed","bacon"];
+console.log(donutBox);
+var pizzaToppings = ["supreme","pepperoni","pineapple and ham","bbq","spinach,mushroom, and chicker"];
+console.log(pizzaToppings);
