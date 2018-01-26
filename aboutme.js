@@ -59,7 +59,8 @@ console.log (favDoughnut);
 // numberOfStudentsInClass
 // numberOfDoorsInClassroom
 
-
+var favNumber = "1";
+console.log (favNumber);
 
 
 
@@ -74,7 +75,8 @@ console.log (favDoughnut);
 // playThePiano
 // playSports
 
-
+var likesMcDonalds = true;
+console.log (likesMcDonalds);
 
 
 
@@ -86,6 +88,8 @@ console.log (favDoughnut);
 // traveledToMars
 // ateDinner
 
+var completedMiddleSchool = null;
+console.log(completedMiddleSchool);
 
 
 
@@ -98,6 +102,8 @@ console.log (favDoughnut);
 // lastDayOfSchool
 // nextFieldTrip
 
+var superBowlChamps = undefined;
+console.log(superBowlChamps);
 
 
 
@@ -109,3 +115,6 @@ console.log (favDoughnut);
 // Declare a variable named `plateLunch` and assign it an array containing 5 of your favorite lunch items.
 // Declare a variable named `donutBox` and assign it an array containing 5 donuts of your choosing.
 // Declare a variable named `pizzaToppings` and assign it an array containing 5 pizza toppings of your choosing.
+
+var backpack = ["computer" , "notebook" , "pencil" , "lunch" , "pen"];
+console.log(backpack);
